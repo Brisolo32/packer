@@ -1,4 +1,10 @@
-![A logo of the packer app width](./Packer-Logo.png)
+<p align="center">
+  <img align="center" src="https://github.com/Brisolo32/packer/blob/main/Packer-Logo.png?raw=true" alt="A logo of the packer app">
+</p>
+
+<p align="center">
+  <img align="center" src="https://img.shields.io/github/license/Brisolo32/packer" alt="A logo of the packer app">
+</p>
 
 <h3 align="center">A tool to pack multiple lua files into one</h3>
 
