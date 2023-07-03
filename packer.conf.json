@@ -1,0 +1,5 @@
+{
+  "main_file": "./example/file1.lua",
+  "files": ["./example/file2.lua", "./example/file3.lua"],
+  "output": "./packed.lua"
+}
